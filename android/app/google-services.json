@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59991001292",
+    "project_id": "devigma-store",
+    "storage_bucket": "devigma-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59991001292:android:087a36c9ec4211ea3b5a69",
+        "android_client_info": {
+          "package_name": "com.example.devigma_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59991001292-l854ve44gl6dqeh8oovrnuh9soomlhae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_iLZI_3EXQ4dl4hq8MZ8vP9hdGh6OXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59991001292-l854ve44gl6dqeh8oovrnuh9soomlhae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
